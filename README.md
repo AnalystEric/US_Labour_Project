@@ -2,11 +2,19 @@
 # Project Overview
 Utilizing Excel to create an interactive dashboard that significantly assists high school seniors in finding career paths.
 
-# Built with
+# Built With
 * Excel
+
+# Excel Skills Used in This Dashboard
 - Statistical & Lookup Formulas
-- Inserting & Formating Custom Charts
+- Inserting & Formatting Custom Charts
 - Dynamically Highlighting Series
 - Creating New Data with Data Types
 - Adding Form Controls
 - Protecting Workbooks & Worksheets
+
+# Data Overview
+Us labour statistics by industry & state from 2017 to 2020
+
+Dimensions: Year, Industry, State
+Measures: Establishments, Employees, Avg Annual Wage
