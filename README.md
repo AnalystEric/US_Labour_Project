@@ -16,5 +16,6 @@ Utilizing Excel to create an interactive dashboard that significantly assists hi
 # Data Summary
 There is only one worksheet with 6 columns and 11,514 records.
 Us labour statistics by industry & state from 2017 to 2020
+        
         Dimensions: Year, Industry, State
         Measures: Establishments, Employees, Avg Annual Wage
