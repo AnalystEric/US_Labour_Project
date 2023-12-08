@@ -14,7 +14,8 @@ Utilizing Excel to create an interactive dashboard that significantly assists hi
 - Protecting Workbooks & Worksheets
 
 # Data Overview
-Us labour statistics by industry & state from 2017 to 2020
+There is only one worksheet with 6 columns and 11,514 records.
 
-Dimensions: Year, Industry, State
-Measures: Establishments, Employees, Avg Annual Wage
+        Us labour statistics by industry & state from 2017 to 2020
+        Dimensions: Year, Industry, State
+        Measures: Establishments, Employees, Avg Annual Wage
