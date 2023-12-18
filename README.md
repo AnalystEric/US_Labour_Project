@@ -5,7 +5,7 @@ Utilizing Excel to create an interactive dashboard that significantly assists hi
 # Built With
 * Excel
 
-# Excel Skills Used in This Dashboard
+# Excel Skills used in this dashboard
 - Statistical & Lookup Formulas
 - Inserting & Formatting Custom Charts
 - Dynamically Highlighting Series
